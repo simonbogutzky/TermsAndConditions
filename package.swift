@@ -13,6 +13,6 @@ let package = Package(
       .binaryTarget(
          name: "Shared",
          url: "https://github.com/simonbogutzky/TermsAndConditions/releases/download/v0.0.1/XCLibrary.zip",
-         checksum:"8e50cc217c033a0aba4318b97638b1026ff9b46d15e8d1cd3f4a5e7ef03852b9")
+         checksum:"f3681646dfde65d7c5d8a7078eb1db8e9d7829a3c1009111c27111862243b237")
    ]
 )
